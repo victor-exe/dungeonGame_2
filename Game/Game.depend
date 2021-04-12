@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616255415 source:c:\users\student\desktop\project\game\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+
+1616853302 source:c:\users\dr\desktop\programming\cpp\dungeongame\game\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<fstream>
+
